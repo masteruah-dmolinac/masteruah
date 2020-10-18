@@ -8,4 +8,3 @@ Information Technology: Bloque 2
 | issam49        | https://github.com/issam49     |
 | Eneko Lakast   | https://github.com/enekid      |
 | Joseph Reyes   | https://github.com/jossjack    |
-|------------------------|---------------------------------------------------|
